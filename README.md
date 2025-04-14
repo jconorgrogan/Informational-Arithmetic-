@@ -12,7 +12,6 @@ What if there was another way? (highly speculative stuff follows youve been warn
 
 One way forward, IMO, is to start with the (what I can tell) logical impossibility of non-distinction, and build from there. 
 
-
 **Arithmetic as Projection Residue: A Foundation of Number via Informational Constructivism (IC)**
 
 **Abstract**  
@@ -112,6 +111,8 @@ Let \( N(\delta) = \prod p_i \) be the norm of a Δ-path. Then:
 - Zeta sums square-free Δ-paths.  
 - \( N(\delta) \) reflects distinguishability cost.  
 - This arises from IC structure—not retrofitted.
+
+---
 
 ### 7. Analytic Continuation as Global Observer Projection
 
@@ -238,6 +239,23 @@ Informational Constructivism reframes arithmetic as the stabilized projection of
 - Generalizing to negative, rational, real structures via Δ-path geometry
 - Quantifying memory curvature and Δ-self resonance over time
 
----
+—Finding additional evidence: eg  Zsigmondy's theorem provides external mathematical validation for the IC principle that recursive operations ( Δ self Δ self ​ ) acting within a constrained system naturally drive the emergence of new, irreducible complexity (new prime residues).; illustrates the IC claim that a finite, constrained memory ( M O κ M O κ ​ ) cannot remain "closed" under arbitrary recursion. The recursive generation of structure eventually outpaces the representational capacity of the existing set of irreducible building blocks, forcing the system to expand its basis set of irreducibles.
+Zsigmondy’s theorem says: For almost all
+a
+n
+−
+b
+n
+a^n - b^n
+an−bn, there exists a primitive prime divisor — a prime that shows up for the first time at stage
+n
+n
+n.
+In IC terms, this aligns with the claim that:
+* Recursive distinction paths (like powering via Δ-self chains) eventually exceed the expressive capacity of previously stabilized projection residues.
+* When this happens, the system must stabilize a new irreducible projection — i.e., generate a new prime residue.
+So:
+Zsigmondy proves that Δ-self recursion under mild constraints eventually forces Δ_gen events.
+This exactly matches the IC claim that memory can’t fully close over recursive paths: constraint-bounded systems must keep generating new irreducible structure as recursive Δ-paths deepen.
 
 
