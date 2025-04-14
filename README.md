@@ -1,4 +1,4 @@
-All traditional axiomatic foundations (Peano, ZFC, etc.) assume:
+Is Math discovered or created? Axiomatic systems excel at logical rigour and derivation within the system, but typically don't explain why those axioms or objects are chosen or how they might arise naturally. IN fact, all traditional axiomatic foundations (Peano, ZFC, etc.) assume:
 
 A predefined set of objects (e.g., numbers, sets)
 
@@ -6,7 +6,9 @@ A set of rules about how those objects relate
 
 An external metalanguage in which these rules are expressed
 
-These are static declarations. They don’t explain why those objects exist, why those relations are privileged, or what makes the system possible in the first place. What if there was another way? (highly speculative stuff follows youve been warned!) What if there were pre-axiomatic regimes in which axioms become necessary strategies for constraint-bounded agents trying to stabilize structure? 
+These are static declarations. They don’t explain why those objects exist, why those relations are privileged, or what makes the system possible in the first place. 
+
+What if there was another way? (highly speculative stuff follows youve been warned!) What if there were pre-axiomatic regimes in which axioms become necessary strategies for constraint-bounded agents trying to stabilize structure? 
 
 One way forward, IMO, is to start with the (what I can tell) logical impossibility of non-distinction, and build from there. 
 
